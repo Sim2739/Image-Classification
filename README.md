@@ -40,9 +40,6 @@ python test.py
 ## Results
 
 Test accuracy: 67.79%
-## Deployment
-
-To deploy this project run
 
 ```bash
   npm run deploy
