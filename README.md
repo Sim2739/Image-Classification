@@ -41,7 +41,5 @@ python test.py
 
 Test accuracy: 67.79%
 
-```bash
-  npm run deploy
-```
+
 
